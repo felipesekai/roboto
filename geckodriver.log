@@ -1,0 +1,1202 @@
+1662136559958	geckodriver	INFO	Listening on 127.0.0.1:54712
+1662136563006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilensafqn"
+*** You are running in headless mode.
+1662136563626	Marionette	INFO	Marionette enabled
+1662136563633	Marionette	INFO	Listening on port 54729
+WebDriver BiDi listening on ws://localhost:54713
+Read port: 54729
+1662136563880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilensafqn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54713/devtools/browser/3edfb3fd-464c-432b-924b-c50f24f715cb
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.34.0/otBannerSdk.js, line 7: TypeError: un.bannerGroup is undefined
+1662136603458	geckodriver	INFO	Listening on 127.0.0.1:55064
+1662136606495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileZMTu4c"
+*** You are running in headless mode.
+1662136607196	Marionette	INFO	Marionette enabled
+1662136607203	Marionette	INFO	Listening on port 55082
+WebDriver BiDi listening on ws://localhost:55065
+Read port: 55082
+1662136607510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileZMTu4c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55065/devtools/browser/df14b2a9-6eaf-4ab1-992f-322e46de9f77
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662136730955	geckodriver	INFO	Listening on 127.0.0.1:55272
+1662136734030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileXWT4IF"
+*** You are running in headless mode.
+1662136734672	Marionette	INFO	Marionette enabled
+1662136734678	Marionette	INFO	Listening on port 55288
+WebDriver BiDi listening on ws://localhost:55273
+Read port: 55288
+1662136734816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileXWT4IF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55273/devtools/browser/fa0f8c30-271d-4d78-863d-16128f51a5cd
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662136879013	geckodriver	INFO	Listening on 127.0.0.1:49804
+1662136882054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileSst7Vv"
+*** You are running in headless mode.
+1662136882975	Marionette	INFO	Marionette enabled
+1662136882981	Marionette	INFO	Listening on port 49857
+WebDriver BiDi listening on ws://localhost:49805
+Read port: 49857
+1662136883158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileSst7Vv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49805/devtools/browser/9d62a962-1603-4210-8118-c3919574370b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.34.0/otBannerSdk.js, line 7: TypeError: r is undefined
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.seconsole.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.seconsole.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://servicJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ipping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+r: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ERROR_NOT_AVAILABLE
+\\Temp\\rust_mozprofileqlE3NY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59259/devtools/browser/5bddd8b3-7d71-4ac1-b012-ae9e219f29ce
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+felip\\AppData\\Local\\Temp\\rust_mozprofileOn4CfG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59534/devtools/browser/15826917-46be-42af-8605-0eb7ebff4a67
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59676
+1662137900445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileUFxcWL"
+*** You are running in headless mode.
+1662137901053	Marionette	INFO	Marionette enabled
+1662137901061	Marionette	INFO	Listening on port 59691
+WebDriver BiDi listening on ws://localhost:59677
+Read port: 59691
+1662137901205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileUFxcWL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59677/devtools/browser/2d4be1cf-f3f9-42ac-9015-9e498b3c9cad
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59937
+1662138110573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile67RAMa"
+*** You are running in headless mode.
+1662138111227	Marionette	INFO	Marionette enabled
+1662138111238	Marionette	INFO	Listening on port 59952
+WebDriver BiDi listening on ws://localhost:59938
+Read port: 59952
+1662138111389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile67RAMa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59938/devtools/browser/5fada956-34d2-4c48-b758-ba469a79e9fe
+1662138162885	geckodriver	INFO	Listening on 127.0.0.1:60057
+1662138165922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileGfqMEY"
+*** You are running in headless mode.
+1662138166592	Marionette	INFO	Marionette enabled
+1662138166598	Marionette	INFO	Listening on port 60072
+WebDriver BiDi listening on ws://localhost:60058
+Read port: 60072
+1662138166756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileGfqMEY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60058/devtools/browser/c50b7cbe-0dae-47fe-adbb-0303c3445d75
+1662138243291	geckodriver	INFO	Listening on 127.0.0.1:60204
+1662138246357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeoV2ao"
+*** You are running in headless mode.
+1662138247051	Marionette	INFO	Marionette enabled
+1662138247058	Marionette	INFO	Listening on port 60222
+WebDriver BiDi listening on ws://localhost:60205
+Read port: 60222
+1662138247370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeoV2ao\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60205/devtools/browser/c7c37d2b-af4f-4124-91a3-8de9d07ac571
+1662138264215	Marionette	INFO	Stopped listening on port 60222
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileeoV2ao\protections.sqlite
+1662138420606	geckodriver	INFO	Listening on 127.0.0.1:60450
+1662138423656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefo0ge1"
+*** You are running in headless mode.
+1662138424288	Marionette	INFO	Marionette enabled
+1662138424295	Marionette	INFO	Listening on port 60465
+WebDriver BiDi listening on ws://localhost:60451
+Read port: 60465
+1662138424464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefo0ge1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60451/devtools/browser/4a30bf9d-fd85-426f-afa8-fc100d58b35e
+1662138441987	Marionette	INFO	Stopped listening on port 60465
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilefo0ge1\protections.sqlite
+1662138444981	geckodriver	INFO	Listening on 127.0.0.1:60536
+1662138448039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilebXBSOt"
+*** You are running in headless mode.
+1662138448639	Marionette	INFO	Marionette enabled
+1662138448644	Marionette	INFO	Listening on port 60553
+WebDriver BiDi listening on ws://localhost:60537
+Read port: 60553
+1662138448804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilebXBSOt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60537/devtools/browser/d858ab0a-5a10-4b77-a7d3-2243a6310f3d
+1662138467491	geckodriver	INFO	Listening on 127.0.0.1:60619
+1662138470535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilema2JST"
+*** You are running in headless mode.
+1662138471202	Marionette	INFO	Marionette enabled
+1662138471208	Marionette	INFO	Listening on port 60637
+WebDriver BiDi listening on ws://localhost:60620
+Read port: 60637
+1662138471368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilema2JST\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60620/devtools/browser/13ed6550-5cf0-4af1-872f-f2497310e198
+1662138490115	geckodriver	INFO	Listening on 127.0.0.1:60711
+1662138493161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilel4ClZm"
+*** You are running in headless mode.
+1662138493801	Marionette	INFO	Marionette enabled
+1662138493810	Marionette	INFO	Listening on port 60727
+WebDriver BiDi listening on ws://localhost:60712
+Read port: 60727
+1662138493944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilel4ClZm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60712/devtools/browser/ce571cd9-eaf7-46ed-bf35-2a99c76d52d3
+1662138556975	geckodriver	INFO	Listening on 127.0.0.1:60856
+1662138560010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeYA1oC"
+*** You are running in headless mode.
+1662138560580	Marionette	INFO	Marionette enabled
+1662138560587	Marionette	INFO	Listening on port 60885
+WebDriver BiDi listening on ws://localhost:60857
+Read port: 60885
+1662138560860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeYA1oC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60857/devtools/browser/65f3ef04-0e41-4ecb-905c-3e7f05928bed
+1662138578410	Marionette	INFO	Stopped listening on port 60885
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileeYA1oC\protections.sqlite
+1662138672853	geckodriver	INFO	Listening on 127.0.0.1:61074
+1662138675892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilexUldH4"
+*** You are running in headless mode.
+1662138676558	Marionette	INFO	Marionette enabled
+1662138676564	Marionette	INFO	Listening on port 61094
+WebDriver BiDi listening on ws://localhost:61075
+Read port: 61094
+1662138676739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilexUldH4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61075/devtools/browser/7455725c-b158-475a-84c4-05de39a27b98
+1662138694186	Marionette	INFO	Stopped listening on port 61094
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilexUldH4\protections.sqlite
+1662139197426	geckodriver	INFO	Listening on 127.0.0.1:62058
+1662139200471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile6Txc4n"
+*** You are running in headless mode.
+1662139201056	Marionette	INFO	Marionette enabled
+1662139201062	Marionette	INFO	Listening on port 62075
+WebDriver BiDi listening on ws://localhost:62059
+Read port: 62075
+1662139201332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile6Txc4n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62059/devtools/browser/427bafac-8b17-4e96-a2cc-139531a41680
+1662139217923	Marionette	INFO	Stopped listening on port 62075
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile6Txc4n\protections.sqlite
+1662139263620	geckodriver	INFO	Listening on 127.0.0.1:62184
+1662139266681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile9J0TqK"
+*** You are running in headless mode.
+1662139267328	Marionette	INFO	Marionette enabled
+1662139267336	Marionette	INFO	Listening on port 62203
+WebDriver BiDi listening on ws://localhost:62185
+Read port: 62203
+1662139267511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile9J0TqK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62185/devtools/browser/06b592a1-a2bd-49b4-85b3-b602f2a25edd
+1662139284603	Marionette	INFO	Stopped listening on port 62203
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile9J0TqK\protections.sqlite
+1662139291931	geckodriver	INFO	Listening on 127.0.0.1:62281
+1662139295018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile0e6bEa"
+1662139295630	Marionette	INFO	Marionette enabled
+1662139295636	Marionette	INFO	Listening on port 62298
+WebDriver BiDi listening on ws://localhost:62282
+Read port: 62298
+1662139295864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile0e6bEa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62282/devtools/browser/3ba10c6c-1e1a-45ca-9207-4c7a907efa43
+1662139313540	Marionette	INFO	Stopped listening on port 62298
+1662139521206	geckodriver	INFO	Listening on 127.0.0.1:62572
+1662139524276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileWPHQ33"
+1662139525596	Marionette	INFO	Marionette enabled
+1662139525601	Marionette	INFO	Listening on port 62590
+WebDriver BiDi listening on ws://localhost:62573
+Read port: 62590
+1662139525850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileWPHQ33\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62573/devtools/browser/67b6748e-00dd-4e04-8e30-283710e5d89d
+1662139544434	Marionette	INFO	Stopped listening on port 62590
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileWPHQ33\protections.sqlite
+1662139761664	geckodriver	INFO	Listening on 127.0.0.1:62882
+1662139764727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileRh5L64"
+1662139765419	Marionette	INFO	Marionette enabled
+1662139765425	Marionette	INFO	Listening on port 62902
+WebDriver BiDi listening on ws://localhost:62883
+Read port: 62902
+1662139765638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileRh5L64\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62883/devtools/browser/06948ec3-6b8a-4283-bc85-6a8aeb8684cc
+1662139782822	Marionette	INFO	Stopped listening on port 62902
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileRh5L64\protections.sqlite
+1662139809829	geckodriver	INFO	Listening on 127.0.0.1:63012
+1662139812891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileHSFS1L"
+*** You are running in headless mode.
+1662139813502	Marionette	INFO	Marionette enabled
+1662139813508	Marionette	INFO	Listening on port 63031
+WebDriver BiDi listening on ws://localhost:63013
+Read port: 63031
+1662139813637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileHSFS1L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63013/devtools/browser/2eb72843-a7ab-4a91-b569-4deadd1c8b61
+1662139830281	Marionette	INFO	Stopped listening on port 63031
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileHSFS1L\protections.sqlite
+1662139889300	geckodriver	INFO	Listening on 127.0.0.1:63179
+1662139892359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilerIc2r5"
+*** You are running in headless mode.
+1662139892944	Marionette	INFO	Marionette enabled
+1662139892950	Marionette	INFO	Listening on port 63200
+WebDriver BiDi listening on ws://localhost:63180
+Read port: 63200
+1662139893228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilerIc2r5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63180/devtools/browser/f67c7e18-a0e1-4c1b-a6f9-f0aca9a7fa7f
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63341
+1662139979866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefe1bFR"
+*** You are running in headless mode.
+1662139980520	Marionette	INFO	Marionette enabled
+1662139980526	Marionette	INFO	Listening on port 63359
+WebDriver BiDi listening on ws://localhost:63342
+Read port: 63359
+1662139980658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefe1bFR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63342/devtools/browser/e9d8196c-9d94-47b3-b30d-a5b41fb85a3d
+1662139997742	Marionette	INFO	Stopped listening on port 63359
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilefe1bFR\protections.sqlite
+1662140027550	geckodriver	INFO	Listening on 127.0.0.1:63451
+1662140030610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileQN10rt"
+*** You are running in headless mode.
+1662140031268	Marionette	INFO	Marionette enabled
+1662140031279	Marionette	INFO	Listening on port 63470
+WebDriver BiDi listening on ws://localhost:63452
+Read port: 63470
+1662140031419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileQN10rt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63452/devtools/browser/dfe8af17-010e-4566-a7ae-209954caeeb4
+1662140048465	Marionette	INFO	Stopped listening on port 63470
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileQN10rt\protections.sqlite
+1662140126517	geckodriver	INFO	Listening on 127.0.0.1:63612
+1662140129570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileVjQLxn"
+*** You are running in headless mode.
+1662140130254	Marionette	INFO	Marionette enabled
+1662140130266	Marionette	INFO	Listening on port 63629
+Read port: 63629
+WebDriver BiDi listening on ws://localhost:63613
+1662140130416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileVjQLxn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63613/devtools/browser/2c51c615-3ae0-4451-aa5b-345d65874045
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63740
+1662140201828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileDKp8zj"
+*** You are running in headless mode.
+1662140202522	Marionette	INFO	Marionette enabled
+1662140202528	Marionette	INFO	Listening on port 63759
+WebDriver BiDi listening on ws://localhost:63741
+Read port: 63759
+1662140202703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileDKp8zj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63741/devtools/browser/2fadb934-1926-4d07-9d61-64c24e21ae5b
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63834
+1662140226809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilecpUTye"
+*** You are running in headless mode.
+1662140227454	Marionette	INFO	Marionette enabled
+1662140227461	Marionette	INFO	Listening on port 63850
+WebDriver BiDi listening on ws://localhost:63835
+Read port: 63850
+1662140227600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilecpUTye\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63835/devtools/browser/e5cfea10-4885-4258-b2ad-80fa2fd1471b
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63941
+1662140273154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileWLzTyh"
+*** You are running in headless mode.
+1662140273805	Marionette	INFO	Marionette enabled
+1662140273813	Marionette	INFO	Listening on port 63957
+WebDriver BiDi listening on ws://localhost:63942
+Read port: 63957
+1662140273976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileWLzTyh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63942/devtools/browser/5df552ab-d69e-4089-9f05-33a75b48e1a3
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:64073
+1662140320726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile0fwkaa"
+*** You are running in headless mode.
+1662140321373	Marionette	INFO	Marionette enabled
+1662140321384	Marionette	INFO	Listening on port 64090
+WebDriver BiDi listening on ws://localhost:64074
+Read port: 64090
+1662140321519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile0fwkaa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64074/devtools/browser/d1799429-ab83-4b13-857d-914873dc3d62
+1662140339133	Marionette	INFO	Stopped listening on port 64090
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile0fwkaa\protections.sqlite
+1662140361601	geckodriver	INFO	Listening on 127.0.0.1:64182
+1662140364635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileKI55W7"
+*** You are running in headless mode.
+1662140365252	Marionette	INFO	Marionette enabled
+1662140365259	Marionette	INFO	Listening on port 64197
+WebDriver BiDi listening on ws://localhost:64183
+Read port: 64197
+1662140365434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileKI55W7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64183/devtools/browser/93b1ab8f-c56e-4ebd-943f-9eec8ccd716c
+1662140382785	Marionette	INFO	Stopped listening on port 64197
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileKI55W7\protections.sqlite
+1662140395337	geckodriver	INFO	Listening on 127.0.0.1:64282
+1662140398374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileZPZ71H"
+*** You are running in headless mode.
+1662140399042	Marionette	INFO	Marionette enabled
+1662140399049	Marionette	INFO	Listening on port 64299
+WebDriver BiDi listening on ws://localhost:64283
+Read port: 64299
+1662140399208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileZPZ71H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64283/devtools/browser/3a4929dc-0c22-416e-800c-d8abf5165023
+1662140416289	Marionette	INFO	Stopped listening on port 64299
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileZPZ71H\protections.sqlite
+1662140452126	geckodriver	INFO	Listening on 127.0.0.1:64409
+1662140455173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilezWybIU"
+*** You are running in headless mode.
+1662140455831	Marionette	INFO	Marionette enabled
+1662140455837	Marionette	INFO	Listening on port 64425
+WebDriver BiDi listening on ws://localhost:64410
+Read port: 64425
+1662140455995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilezWybIU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64410/devtools/browser/c2f795ca-bd4d-45a1-9f09-b07fc472a432
+1662140473278	Marionette	INFO	Stopped listening on port 64425
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilezWybIU\protections.sqlite
+1662140484733	geckodriver	INFO	Listening on 127.0.0.1:64515
+1662140487796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileMT7gB6"
+*** You are running in headless mode.
+1662140488377	Marionette	INFO	Marionette enabled
+1662140488383	Marionette	INFO	Listening on port 64541
+WebDriver BiDi listening on ws://localhost:64516
+Read port: 64541
+1662140488653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileMT7gB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64516/devtools/browser/0887462d-c379-48f5-9458-c2a18dfd93a0
+1662140505582	Marionette	INFO	Stopped listening on port 64541
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileMT7gB6\protections.sqlite
+1662140773842	geckodriver	INFO	Listening on 127.0.0.1:61922
+1662140776887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilep6ulJj"
+*** You are running in headless mode.
+1662140777589	Marionette	INFO	Marionette enabled
+1662140777601	Marionette	INFO	Listening on port 61937
+WebDriver BiDi listening on ws://localhost:61923
+Read port: 61937
+1662140777783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilep6ulJj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61923/devtools/browser/17c8adf5-5548-4b6c-bfb8-df7ed75578f5
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62033
+1662140819116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2WzpdN"
+*** You are running in headless mode.
+1662140819788	Marionette	INFO	Marionette enabled
+1662140819798	Marionette	INFO	Listening on port 62048
+WebDriver BiDi listening on ws://localhost:62034
+Read port: 62048
+1662140819944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2WzpdN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62034/devtools/browser/6ff29fa5-b72d-4ca9-92ae-d3088ca25f1f
+1662140837183	Marionette	INFO	Stopped listening on port 62048
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile2WzpdN\protections.sqlite
+1662140937199	geckodriver	INFO	Listening on 127.0.0.1:62206
+1662140940249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile6zZFUl"
+*** You are running in headless mode.
+1662140940921	Marionette	INFO	Marionette enabled
+1662140940927	Marionette	INFO	Listening on port 62221
+WebDriver BiDi listening on ws://localhost:62207
+Read port: 62221
+1662140941087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile6zZFUl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62207/devtools/browser/b67fc492-799c-400d-889f-352ab31b34df
+1662141186122	geckodriver	INFO	Listening on 127.0.0.1:62502
+1662141189194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile77He7H"
+*** You are running in headless mode.
+1662141189903	Marionette	INFO	Marionette enabled
+1662141189914	Marionette	INFO	Listening on port 62519
+WebDriver BiDi listening on ws://localhost:62503
+Read port: 62519
+1662141190088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile77He7H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62503/devtools/browser/85c97d34-ebb8-4bbf-9e29-eb7e72e81c46
+1662141208183	Marionette	INFO	Stopped listening on port 62519
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile77He7H\protections.sqlite
+[Parent 14120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662141390649	geckodriver	INFO	Listening on 127.0.0.1:62788
+1662141393687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofiletBvRF3"
+*** You are running in headless mode.
+1662141394345	Marionette	INFO	Marionette enabled
+1662141394351	Marionette	INFO	Listening on port 62806
+WebDriver BiDi listening on ws://localhost:62789
+Read port: 62806
+1662141394531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofiletBvRF3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62789/devtools/browser/e766b570-678b-4bb5-a1c1-816c860931f6
+1662141448894	geckodriver	INFO	Listening on 127.0.0.1:62906
+1662141451924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilelE6N79"
+*** You are running in headless mode.
+1662141452708	Marionette	INFO	Marionette enabled
+1662141452715	Marionette	INFO	Listening on port 62926
+WebDriver BiDi listening on ws://localhost:62907
+Read port: 62926
+1662141452887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilelE6N79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62907/devtools/browser/1566b952-c31c-474a-89bc-9d16f510b668
+1662141471048	Marionette	INFO	Stopped listening on port 62926
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilelE6N79\protections.sqlite
+1662141549452	geckodriver	INFO	Listening on 127.0.0.1:63073
+1662141552501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileudnIVF"
+*** You are running in headless mode.
+1662141553276	Marionette	INFO	Marionette enabled
+1662141553285	Marionette	INFO	Listening on port 63089
+WebDriver BiDi listening on ws://localhost:63074
+Read port: 63089
+1662141553484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileudnIVF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63074/devtools/browser/cc64a030-3107-45af-8ec4-a3bee25f9417
+1662141584105	geckodriver	INFO	Listening on 127.0.0.1:63170
+1662141587148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefuJLz8"
+*** You are running in headless mode.
+1662141587890	Marionette	INFO	Marionette enabled
+1662141587896	Marionette	INFO	Listening on port 63185
+WebDriver BiDi listening on ws://localhost:63171
+Read port: 63185
+1662141588038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilefuJLz8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63171/devtools/browser/e24a9839-3515-4ae4-afd4-3a805319d66d
+1662141606527	Marionette	INFO	Stopped listening on port 63185
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilefuJLz8\protections.sqlite
+1662156025475	geckodriver	INFO	Listening on 127.0.0.1:56994
+1662156028547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileoGMMNX"
+*** You are running in headless mode.
+1662156029604	Marionette	INFO	Marionette enabled
+1662156029610	Marionette	INFO	Listening on port 57010
+WebDriver BiDi listening on ws://localhost:56995
+Read port: 57010
+1662156029802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileoGMMNX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56995/devtools/browser/e6723397-aec2-42c4-8df4-5ba4b630184b
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662156046589	Marionette	INFO	Stopped listening on port 57010
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileoGMMNX\protections.sqlite
+1662156593343	geckodriver	INFO	Listening on 127.0.0.1:58407
+1662156596405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeCSsTz"
+*** You are running in headless mode.
+1662156597210	Marionette	INFO	Marionette enabled
+1662156597216	Marionette	INFO	Listening on port 58422
+WebDriver BiDi listening on ws://localhost:58408
+Read port: 58422
+1662156597404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileeCSsTz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58408/devtools/browser/7cfac5ab-8475-4438-b55a-e03536b0f935
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662156614258	Marionette	INFO	Stopped listening on port 58422
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileeCSsTz\protections.sqlite
+1662156711301	geckodriver	INFO	Listening on 127.0.0.1:58617
+1662156714348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilew80Y2u"
+*** You are running in headless mode.
+1662156715032	Marionette	INFO	Marionette enabled
+1662156715038	Marionette	INFO	Listening on port 58634
+WebDriver BiDi listening on ws://localhost:58618
+Read port: 58634
+1662156715203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilew80Y2u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58618/devtools/browser/4480f3a3-141b-4b17-89d8-2635c92c1d59
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662156732856	Marionette	INFO	Stopped listening on port 58634
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilew80Y2u\protections.sqlite
+1662157311669	geckodriver	INFO	Listening on 127.0.0.1:58225
+1662157314731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilePTr93F"
+*** You are running in headless mode.
+1662157315592	Marionette	INFO	Marionette enabled
+1662157315604	Marionette	INFO	Listening on port 58244
+WebDriver BiDi listening on ws://localhost:58226
+Read port: 58244
+1662157315763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilePTr93F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58226/devtools/browser/aa9acc8a-2857-49d5-ba96-f52d224f2908
+1662157332321	Marionette	INFO	Stopped listening on port 58244
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilePTr93F\protections.sqlite
+1662157493173	geckodriver	INFO	Listening on 127.0.0.1:58484
+1662157496246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilekidbxL"
+*** You are running in headless mode.
+1662157496933	Marionette	INFO	Marionette enabled
+1662157496939	Marionette	INFO	Listening on port 58501
+WebDriver BiDi listening on ws://localhost:58485
+Read port: 58501
+1662157497215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilekidbxL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58485/devtools/browser/0f99c295-c4cb-4d95-b3d8-440568086783
+1662157513282	Marionette	INFO	Stopped listening on port 58501
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofilekidbxL\protections.sqlite
+1662157603800	geckodriver	INFO	Listening on 127.0.0.1:58686
+1662157606871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilejFLVdS"
+*** You are running in headless mode.
+1662157607699	Marionette	INFO	Marionette enabled
+1662157607706	Marionette	INFO	Listening on port 58708
+WebDriver BiDi listening on ws://localhost:58687
+Read port: 58708
+1662157607860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofilejFLVdS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58687/devtools/browser/6fca555b-e279-46f2-bb37-2ac101a9cbd5
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59020
+1662157817035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2tLTC6"
+*** You are running in headless mode.
+1662157817764	Marionette	INFO	Marionette enabled
+1662157817770	Marionette	INFO	Listening on port 59038
+WebDriver BiDi listening on ws://localhost:59021
+Read port: 59038
+1662157817906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2tLTC6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59021/devtools/browser/f4563c1b-3b8e-45e9-8d8e-3cbe3ef6ac78
+1662157836733	Marionette	INFO	Stopped listening on port 59038
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile2tLTC6\protections.sqlite
+[Parent 8112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662157949755	geckodriver	INFO	Listening on 127.0.0.1:59216
+1662157952795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileKtSlLn"
+*** You are running in headless mode.
+1662157953382	Marionette	INFO	Marionette enabled
+1662157953390	Marionette	INFO	Listening on port 59230
+WebDriver BiDi listening on ws://localhost:59217
+Read port: 59230
+1662157953531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileKtSlLn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59217/devtools/browser/8091153b-8825-4c3a-a931-c68a8c704a37
+1662157971355	Marionette	INFO	Stopped listening on port 59230
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofileKtSlLn\protections.sqlite
+1662158457930	geckodriver	INFO	Listening on 127.0.0.1:59960
+1662158460985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile8PVEQY"
+*** You are running in headless mode.
+1662158461650	Marionette	INFO	Marionette enabled
+1662158461656	Marionette	INFO	Listening on port 59976
+WebDriver BiDi listening on ws://localhost:59961
+Read port: 59976
+1662158461784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile8PVEQY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59961/devtools/browser/f49341c4-26aa-4f52-8d29-e2615b02dc36
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 SigJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureErrJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+file?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofileLYlxti\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60737/devtools/browser/84456f3d-7919-4e5e-8b8a-d770663a74be
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Sconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Sconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureErroJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ttings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Sconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureErroJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+s.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Sconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureErroJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+s.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCoJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+eSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+nager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reconsole.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/public-suffix-list SignaturJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+nature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@reconsole.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+r@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCoJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+eSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-conconsole.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Signature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+2/devtools/browser/caea22ca-81c7-4d3a-bde1-0920a3c18398
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662160365619	geckodriver	INFO	Listening on 127.0.0.1:63672
+1662160368666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile7fsUeN"
+*** You are running in headless mode.
+1662160369354	Marionette	INFO	Marionette enabled
+1662160369360	Marionette	INFO	Listening on port 63698
+WebDriver BiDi listening on ws://localhost:63673
+Read port: 63698
+1662160369679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile7fsUeN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63673/devtools/browser/f131b9ee-54ad-40e7-a926-1c1585dee33a
+1662160387660	Marionette	INFO	Stopped listening on port 63698
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile7fsUeN\protections.sqlite
+1662160736722	geckodriver	INFO	Listening on 127.0.0.1:64633
+1662160739752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2Fd6yj"
+*** You are running in headless mode.
+1662160740401	Marionette	INFO	Marionette enabled
+1662160740408	Marionette	INFO	Listening on port 64656
+WebDriver BiDi listening on ws://localhost:64634
+Read port: 64656
+1662160740557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile2Fd6yj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64634/devtools/browser/96e8cb9a-8a5c-41dd-a955-5a199b1f4bc1
+1662160759155	Marionette	INFO	Stopped listening on port 64656
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\felip\AppData\Local\Temp\rust_mozprofile2Fd6yj\protections.sqlite
+1662160800802	geckodriver	INFO	Listening on 127.0.0.1:64828
+1662160803839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile7oGieO"
+*** You are running in headless mode.
+1662160804529	Marionette	INFO	Marionette enabled
+1662160804536	Marionette	INFO	Listening on port 64845
+WebDriver BiDi listening on ws://localhost:64829
+Read port: 64845
+1662160804750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\felip\\AppData\\Local\\Temp\\rust_mozprofile7oGieO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64829/devtools/browser/4a122239-819a-4778-81e1-6e4b3ca8369d
+1662160822969	Marionette	INFO	Stopped listening on port 64845
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
